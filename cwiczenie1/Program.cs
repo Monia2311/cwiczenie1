@@ -2,4 +2,5 @@
 Console.WriteLine("Hello, World!!!!!!!!!!!!!");
 Console.WriteLine("Nowa zmiana");
 Console.WriteLine("Pozdrawiam:)");
+Console.WriteLine("Łowicz");
 
